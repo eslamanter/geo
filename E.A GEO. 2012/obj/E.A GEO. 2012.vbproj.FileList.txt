@@ -1,0 +1,18 @@
+bin\Debug\E.A GEO. 2012.exe
+bin\Debug\E.A GEO. 2012.pdb
+bin\Debug\E.A_GEO_2012.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\E.A_GEO_2012.Form1.resources
+obj\Debug\E.A_GEO_2012.Form2.resources
+obj\Debug\E.A_GEO_2012.Form3.resources
+obj\Debug\E.A_GEO_2012.Form4.resources
+obj\Debug\E.A_GEO_2012.Resources.resources
+obj\Debug\E.A GEO. 2012.vbproj.GenerateResource.Cache
+obj\Debug\E.A GEO. 2012.exe
+obj\Debug\E.A_GEO_2012.xml
+obj\Debug\E.A GEO. 2012.pdb
+bin\Debug\E.A GEO. 2012.exe.manifest
+bin\Debug\E.A GEO. 2012.application
+obj\Debug\E.A GEO. 2012.TrustInfo.xml
+obj\Debug\E.A GEO. 2012.exe.manifest
+obj\Debug\E.A GEO. 2012.application
